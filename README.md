@@ -7,4 +7,6 @@
 <!---
 RedGamer282/RedGamer282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
